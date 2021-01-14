@@ -6,3 +6,8 @@
   <dt>aparte</dt>
   <dd>No drama, onde um personagem compartilha um comentário apenas com o público para efeito humorístico ou dramático. Isso geralmente é um sentimento, pensamento ou parte de informação de fundo adicional.</dd>
 </dl>
+
+
+
+
+<a href="https://api.whatsapp.com/send?phone=55119999999999&text=Ol%C3%A1!%20Qual%20a%20sua%20d%C3%BAvida%3F">Clique aqui para chamar no Whatsapp</a>
